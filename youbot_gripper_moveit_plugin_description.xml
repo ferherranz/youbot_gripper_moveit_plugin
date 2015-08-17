@@ -1,0 +1,10 @@
+<library path="libyoubot_gripper_moveit_plugin">
+
+  <class name="youbot_gripper_moveit_plugin/YoubotGripperMoveitPlugin"
+         type="youbot_gripper_moveit_plugin::YoubotGripperMoveitPlugin"
+         base_class_type="moveit_controller_manager::MoveItControllerManager">
+    <description>
+    </description>
+  </class>
+
+</library>
